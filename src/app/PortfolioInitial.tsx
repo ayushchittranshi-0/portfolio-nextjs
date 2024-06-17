@@ -23,7 +23,7 @@ const PortfolioInitial: FC = () => {
                     <div className="mt-4 grid grid-cols-1  gap-8">
                         <div className="bg-gray-800 p-4 rounded-lg">
                             <h3 className="text-[2rem] font-medium">
-                                React Component Library (RCL)
+                                PeerXP Services Pvt Ltd
                             </h3>
                             <p className="mt-2">Joined as a solo front-end developer and branched out contributing to backend. Delivered timely results for 6 projects, including both client and internal projects.
                                 Gathered and managed client requirements for both design and implementation.
